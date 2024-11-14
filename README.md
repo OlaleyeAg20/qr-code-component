@@ -22,7 +22,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ### Links
 
 - [Solution URL](https://github.com/OlaleyeAg20/qr-code-component) <!-- Replace with your actual GitHub repo link -->
-- [Live Site URL](https://your-live-site-url.com) <!-- Replace with your deployed site link -->
+- [Live Site URL](https://qr-code-component-kohl-iota.vercel.app/) <!-- Replace with your deployed site link -->
 
 ### Built With
 
